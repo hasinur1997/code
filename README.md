@@ -1,3 +1,3 @@
 ## Coding Practice
 
-Learn and practice data structure and algorithms and coding techniques.
+Learn and practice data structure and algorithms and coding techniques Using ***Python***.
